@@ -14,6 +14,6 @@ Date().stringDay()
 
 
 ```swift
-// Will return the month in a string ie: December
+// Will return the month in a string example: December
 Date().stringMonth()
 ```
